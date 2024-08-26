@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Anand2929/Anand2929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A denand2929/Anand2929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
